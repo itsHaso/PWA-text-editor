@@ -13,8 +13,4 @@ Here is preview of the deployed application.
 
 ![preview](./preview.png)
 
-## Links 
-
-https://github.com/ndifiori/PWA-Text-Editor
-https://agile-crag-33603.herokuapp.com
 
